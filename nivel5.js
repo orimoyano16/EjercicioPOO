@@ -8,7 +8,7 @@ class cuentaBancaria {
 depositar (cantidad) {
     if (cantidad > 0 ){
         this.#saldo += cantidad;
-        console.log (`Has depositado ${this,cantidad} de dolares`);
+        console.log (`Has depositado ${this,cantidad} dolares`);
     } else {
         console.log ("Error: La cantidad debe ser mayor a 0 dolares")
     }
