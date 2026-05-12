@@ -1,4 +1,6 @@
 # EjerciciosPOO // Moyano Oriana 
+<img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/74a82f48-a342-4155-b021-48b4430a96f4" />
+
 ## Clase 04/05/2026
 ### Ejercicios: 
 
