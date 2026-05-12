@@ -49,6 +49,25 @@ verSaldo()
 
 5. ¿Por qué JS no es realmente orientado a clases?
 
+6. ¿Qué diferencia hay entre:
+                             * método dentro del constructor
+                             * método en prototype?
+   
+7. ¿Qué hace extends?
+   
+8. ¿Para qué sirve super()?
+    
+9. ¿Qué es la prototype chain?
+
+10. ¿Cuándo conviene usar POO y cuándo no?
+    
+11. ¿Qué ventaja tiene sobre código “normal”?
+    
+12. ¿Qué problema resuelve la herencia?
+
+
+
+
 #### Respuestas 
 
 1. En JavaScript, un objeto es una colección de datos relacionados y funcionalidades. Se componen de pares de "clave-valor".
@@ -70,3 +89,5 @@ D. Devuelve el nuevo objeto de forma automática (por eso no tienes que escribir
 
 5. Porque, en su núcleo, JavaScript no tiene clases reales como las tienen lenguajes como Java o C++. JavaScript utiliza un sistema llamado Herencia Prototípica.
 Cuando se introdujo la palabra clave class en JavaScript (en el estándar ES6 de 2015), los desarrolladores del lenguaje no cambiaron cómo funcionaba JavaScript por debajo. Simplemente crearon lo que se llama "azúcar sintáctico" (syntactic sugar). Es decir, nos dieron una forma más bonita, limpia y familiar de escribir código que, por debajo, sigue usando exactamente las mismas funciones constructoras y prototipos ocultos
+
+6.
